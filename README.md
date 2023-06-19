@@ -4,10 +4,10 @@
 The files in this repository were developed with instruction and guidance from Oregon State University's Operating Systems course (CS 344) in Spring 2023.
 
 ## Files include:
-libtree.c
-libtree.h
-main.c
-multithreaded_consumer_producer_pipeline.c
+libtree.c,
+libtree.h,
+main.c,
+multithreaded_consumer_producer_pipeline.c.
 
 ### Tree
 Involves files libtree.c, libtree.h, and main.c.
